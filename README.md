@@ -1,4 +1,4 @@
-# phan-loai-muc-do-tap-trung-giam-sat v2
+# phan-loai-muc-do-tap-trung-giam-sat
 
 Copy `.agents/skills/phan-loai-muc-do-tap-trung-giam-sat/` into the project root.
 
