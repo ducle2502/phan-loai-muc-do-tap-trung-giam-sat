@@ -1,7 +1,5 @@
 # phan-loai-muc-do-tap-trung-giam-sat
 
-Copy `.agents/skills/phan-loai-muc-do-tap-trung-giam-sat/` into the project root.
-
 ```bash
 python scripts/prepare_classification.py input.csv --output classification-plan.json
 python scripts/validate_classification.py output.csv --report validation.json
