@@ -1,9 +1,14 @@
-# phan-loai-muc-do-tap-trung-giam-sat
+# phan-loai-muc-do-tap-trung-giam-sat v4
+
+This skill is anchored to `MASTER_TRACKING` in the included workbook fixture.
+
+From the skill directory:
 
 ```bash
-python scripts/prepare_classification.py input.csv --output classification-plan.json
+python scripts/profile_master_tracking.py evals/files/master_tracking_fixture.xlsx --output profile.json
+python scripts/prepare_classification.py evals/files/master_tracking_fixture.xlsx --output classification-plan.json
 python scripts/validate_classification.py output.csv --report validation.json
-python scripts/run_package_checks.py
+python scripts/run_package_checks.py --json-out package-qc.json
 ```
 
-V2 adds a structured decision record, expectation-based evals, positive and near-miss trigger evals, version history, and deterministic package checks. External with-skill versus baseline agent runs are still required before recording pass rates.
+Deterministic package QC is included. Comparative quality claims require isolated with-skill and baseline agent runs following `evals/README.md`.
