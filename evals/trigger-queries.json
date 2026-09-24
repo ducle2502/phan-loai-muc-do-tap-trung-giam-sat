@@ -1,0 +1,4 @@
+[
+{"query":"Phân loại Mức độ tập trung thành ĐỎ CAM VÀNG XANH XÁM","should_trigger":true},{"query":"Dòng nào cần báo cáo ngay BKS?","should_trigger":true},{"query":"Soát màu giám sát theo deadline bằng chứng và PIC","should_trigger":true},{"query":"Quá hạn có phải đều là ĐỎ không?","should_trigger":true},{"query":"XÁM nghĩa là gì trong file tracking?","should_trigger":true},{"query":"Dòng đủ điều kiện đóng để chuyển XANH","should_trigger":true},
+{"query":"Viết lại Nhận định và kiến nghị không phân loại màu","should_trigger":false},{"query":"Tạo công thức Excel tô màu đỏ","should_trigger":false},{"query":"Đánh giá nhân viên nào kém nhất","should_trigger":false},{"query":"Lập lịch họp giám sát","should_trigger":false},{"query":"Sửa chính tả cột Mức độ tập trung","should_trigger":false},{"query":"Vẽ biểu đồ theo màu đã có","should_trigger":false}
+]

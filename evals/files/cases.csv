@@ -1,0 +1,6 @@
+Snapshot,ID,Tóm tắt nội dung chỉ đạo,Chịu trách nhiệm (PIC),Thời hạn mới nhất (Date),Số ngày còn lại,Kết quả/tiến độ đến thời điểm báo cáo,Hoàn Thành,Thực hiện đúng tiến độ,Chưa hoàn thành,Dự kiến mới nhất (Date),Chênh lệch dự kiến so với thời hạn (Ngày),Link bằng chứng
+17/09/2026,RED,"Hoàn tất điều kiện bắt buộc trước go-live hệ thống cốt lõi",,"18/09/2026","Còn 1 ngày","Điều kiện an toàn bắt buộc chưa hoàn tất; chưa có phương án kiểm soát; cần quyết định vượt thẩm quyền điều hành",,X,,,0,
+17/09/2026,ORANGE,"Trình danh mục tính năng và xử lý eTax",TTCN,"29/07/2026","Trễ hạn 50 ngày","Đang phối hợp rà soát",,X,,"31/08/2026",33,
+17/09/2026,YELLOW,"Ban hành cơ chế quản lý",Nhân sự,"30/09/2026","Còn 13 ngày","Đã trình phê duyệt",,X,,,0,
+17/09/2026,GREEN,"Ban hành cơ chế quản lý",Nhân sự,"30/09/2026","Còn 13 ngày","Đã ban hành văn bản số 123, hiệu lực 15/09/2026 và đã áp dụng",X,,,"15/09/2026",0,"evidence/123.pdf"
+17/09/2026,GRAY,"Thực hiện theo chỉ đạo",,,,"Đã nhận chỉ đạo",,X,,,,

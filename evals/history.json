@@ -1,0 +1,1 @@
+{"started_at":"2026-09-24T00:00:00Z","skill_name":"phan-loai-muc-do-tap-trung-giam-sat","current_best":"v2","iterations":[{"version":"v1","parent":null,"expectation_pass_rate":null,"grading_result":"baseline","is_current_best":false},{"version":"v2","parent":"v1","expectation_pass_rate":null,"grading_result":"pending_external_runs","is_current_best":true}]}
