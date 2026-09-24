@@ -1,0 +1,17 @@
+{
+  "iteration": "iteration-N",
+  "skill_version": "v4",
+  "baseline": "without-skill-or-prior-version",
+  "cases": [],
+  "summary": {
+    "with_skill_expectation_pass_rate": null,
+    "baseline_expectation_pass_rate": null,
+    "with_skill_hard_failures": null,
+    "baseline_hard_failures": null,
+    "with_skill_total_tokens": null,
+    "baseline_total_tokens": null,
+    "with_skill_duration_ms": null,
+    "baseline_duration_ms": null,
+    "decision": "pending"
+  }
+}
